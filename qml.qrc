@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CBar.qml</file>
+        <file>TCombo.qml</file>
+        <file>Body.qml</file>
+        <file>Footer.qml</file>
+        <file>NButton.qml</file>
+        <file>CArea.qml</file>
+        <file>BoldButton.qml</file>
+    </qresource>
+    <qresource prefix="/src">
+        <file>delete.svg</file>
+        <file>done.svg</file>
+        <file>edit.svg</file>
+        <file>star.svg</file>
+        <file>back2.jpg</file>
+    </qresource>
+    <qresource prefix="/files"/>
+    <qresource prefix="/font">
+        <file>static/NotoKufiArabic-Black.ttf</file>
+    </qresource>
+    <qresource prefix="/database"/>
+</RCC>
